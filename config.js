@@ -1,14 +1,14 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Thư mời dự lễ tốt nghiệp",
+    introTitle: 'Gửi cả nhà thân yêu',
+    introDesc: `Ngày ấy cuối cùng cũng đã đến.
+    Sau bao ngày tháng học tập vất vả thì em cũng đã chính thức bước chân ra khỏi NEU
+    Em rất mong cả nhà có thể sắp xếp thời gian đến chia vui và chứng kiến khoảnh khắc
+    em nhận tấm bằng tốt nghiệp và cùng nhau ghi lại những khoảnh khắc thật đẹp này nhé ạ.
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Sự có mặt của mọi người là niềm vui vô cùng to lớn của em',
+    desc: 'Em cảm ơn cả nhà nhìu nhìu ',
+    btnYes: 'Chắc chắn gòi <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    
 }
